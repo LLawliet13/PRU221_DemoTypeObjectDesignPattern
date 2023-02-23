@@ -1,0 +1,144 @@
+[
+  {
+    "CurHp": 10,
+    "TypeOfEnemy": "Red",
+    "Location": {
+      "x": -9.499184,
+      "y": 1.61166155,
+      "z": 0.0,
+      "normalized": {
+        "x": -0.985910654,
+        "y": 0.167272717,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 9.634933,
+      "sqrMagnitude": 92.83194
+    },
+    "Target": {
+      "x": 1.85112,
+      "y": 5.0708065,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.34291923,
+        "y": 0.939364851,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.34291926,
+          "y": 0.9393649,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 5.39812231,
+      "sqrMagnitude": 29.1397247
+    }
+  },
+  {
+    "CurHp": 10,
+    "TypeOfEnemy": "Red",
+    "Location": {
+      "x": -10.6133566,
+      "y": -0.270250559,
+      "z": 0.0,
+      "normalized": {
+        "x": -0.999676,
+        "y": -0.025455,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 10.6167965,
+      "sqrMagnitude": 112.716377
+    },
+    "Target": {
+      "x": 9.59590149,
+      "y": -1.57869339,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9867357,
+        "y": -0.162335262,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 9.72489548,
+      "sqrMagnitude": 94.5736
+    }
+  },
+  {
+    "CurHp": 10,
+    "TypeOfEnemy": "Red",
+    "Location": {
+      "x": 12.6092319,
+      "y": 0.0236989968,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9999983,
+        "y": 0.00187949243,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 12.6092539,
+      "sqrMagnitude": 158.993286
+    },
+    "Target": {
+      "x": -1.67694473,
+      "y": 0.179131985,
+      "z": 0.0,
+      "normalized": {
+        "x": -0.9943431,
+        "y": 0.10621617,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 1.686485,
+      "sqrMagnitude": 2.84423184
+    }
+  },
+  {
+    "CurHp": 10,
+    "TypeOfEnemy": "Red",
+    "Location": {
+      "x": -14.6117268,
+      "y": 0.0132330554,
+      "z": 0.0,
+      "normalized": {
+        "x": -0.9999996,
+        "y": 0.0009056459,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 14.6117325,
+      "sqrMagnitude": 213.502731
+    },
+    "Target": {
+      "x": 13.4597111,
+      "y": 2.12708354,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9877418,
+        "y": 0.156096175,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.9877419,
+          "y": 0.15609619,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 13.62675,
+      "sqrMagnitude": 185.688309
+    }
+  }
+]
